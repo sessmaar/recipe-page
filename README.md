@@ -24,8 +24,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://github.com/sessmaar/recipe-page
+- Live Site URL: https://recipe-page-g8a7h1o23-sessmaars-projects.vercel.app/
 
 ## My process
 
